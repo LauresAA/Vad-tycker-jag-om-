@@ -1,0 +1,32 @@
+body{
+    background:white;
+}
+
+h1{
+    font-size: 80px;
+}
+
+p{
+    font-size: 12px;
+}
+
+#one{
+    color:grey;
+
+}
+
+#two{
+    color:lightgreen;
+}
+
+#three{
+    color: indianred;
+}
+
+#four{
+    color:darkblue;
+}
+
+#five{
+    color:brown;
+}
